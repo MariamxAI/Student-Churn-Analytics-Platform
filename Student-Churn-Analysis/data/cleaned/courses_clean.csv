@@ -1,0 +1,16 @@
+course_code,course_name,duration_hours,category
+AAA,Introduction to Computing,42,Technology
+BBB,Data Analysis Fundamentals,38,Data Science
+CCC,Web Development Basics,55,Technology
+DDD,Software Engineering Principles,60,Technology
+EEE,Artificial Intelligence Fundamentals,48,Data Science
+FFF,Networking & Cybersecurity,35,Technology
+GGG,Database Management & SQL,40,Data Science
+HHH,Python Programming for Beginners,45,Programming
+III,Machine Learning with Python,52,Data Science
+JJJ,UI/UX Design Fundamentals,30,Design
+KKK,Digital Marketing Analytics,28,Business
+LLL,Cloud Computing with AWS,50,Technology
+MMM,Mobile App Development,58,Programming
+NNN,Data Visualization with Power BI,32,Data Science
+OOO,Project Management Professional,36,Business

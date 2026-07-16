@@ -1,0 +1,9 @@
+﻿avg_quiz_score,OULAD,"Real, derived from achieved_score / max_grade."
+avg_clarity_index,Approximated,Set equal to avg_quiz_score. OULAD has no correct_answers/total_questions field.
+course_id,Unreliable,"Taken from assessments_clean.course_code, which was assigned randomly during cleaning to simulate 15 courses. Only course link available in cleaned data."
+late_submission_rate,Not computable,Set to NULL. studentAssessment_clean has no submission timestamp (only time_taken_hours).
+is_banked filter,Not applied,"is_banked column does not exist in cleaned data, so it could not be filtered out."
+instructor_id,Synthetic,No instructors CSV exists. One placeholder instructor assigned per course_id.
+tech_failure_freq,Synthetic,OULAD has no technical failure data. Set to 0 for all rows.
+avg_load_time_ms,Synthetic,OULAD has no load-time data. Left NULL rather than invented.
+attendance_rate,Approximated,Share of a student's total clicks spent on forum/wiki/collaboration activity types.

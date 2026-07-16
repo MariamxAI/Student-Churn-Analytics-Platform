@@ -1,0 +1,207 @@
+id_assessment,course_code,assessment_name,due_date,max_grade
+1752,GGG,Practical Lab 1,20/2/2023,25
+1753,DDD,Practical Lab 2,27/3/2023,50
+1754,MMM,Practical Lab 3,29/5/2023,50
+1755,OOO,Practical Lab 1,17/7/2023,50
+1756,KKK,Practical Lab 2,4/9/2023,50
+1757,HHH,Final Exam,29/9/2023,100
+1758,MMM,Practical Lab 1,20/2/2023,25
+1759,EEE,Practical Lab 2,27/3/2023,50
+1760,GGG,Practical Lab 3,29/5/2023,50
+1761,JJJ,Practical Lab 1,17/7/2023,50
+1762,CCC,Practical Lab 2,4/9/2023,50
+1763,GGG,Final Exam,29/9/2023,100
+14991,KKK,Knowledge Quiz 1,27/3/2023,15
+14992,KKK,Knowledge Quiz 2,1/5/2023,15
+14993,HHH,Knowledge Quiz 3,5/6/2023,15
+14994,EEE,Knowledge Quiz 1,10/7/2023,15
+14995,DDD,Knowledge Quiz 2,7/8/2023,15
+14984,HHH,Practical Lab 3,20/2/2023,25
+14985,HHH,Practical Lab 1,20/3/2023,25
+14986,CCC,Practical Lab 2,1/5/2023,25
+14987,FFF,Practical Lab 3,5/6/2023,25
+14988,EEE,Practical Lab 1,10/7/2023,25
+14989,BBB,Practical Lab 2,7/8/2023,25
+14990,HHH,Final Exam,29/9/2023,100
+15003,LLL,Knowledge Quiz 1,27/3/2023,15
+15004,NNN,Knowledge Quiz 2,8/5/2023,15
+15005,FFF,Knowledge Quiz 3,12/6/2023,15
+15006,BBB,Knowledge Quiz 1,17/7/2023,15
+15007,LLL,Knowledge Quiz 2,28/8/2023,15
+14996,EEE,Practical Lab 3,20/2/2023,25
+14997,AAA,Practical Lab 1,20/3/2023,25
+14998,LLL,Practical Lab 2,8/5/2023,25
+14999,JJJ,Practical Lab 3,12/6/2023,25
+15000,FFF,Practical Lab 1,17/7/2023,25
+15001,MMM,Practical Lab 2,28/8/2023,25
+15002,LLL,Final Exam,29/9/2023,100
+15015,III,Knowledge Quiz 1,20/3/2023,15
+15016,AAA,Knowledge Quiz 2,24/4/2023,15
+15017,KKK,Knowledge Quiz 3,29/5/2023,15
+15018,KKK,Knowledge Quiz 1,3/7/2023,15
+15019,OOO,Knowledge Quiz 2,14/8/2023,15
+15008,JJJ,Practical Lab 3,13/2/2023,25
+15009,LLL,Practical Lab 1,13/3/2023,25
+15010,LLL,Practical Lab 2,24/4/2023,25
+15011,OOO,Practical Lab 3,29/5/2023,25
+15012,NNN,Practical Lab 1,3/7/2023,25
+15013,NNN,Practical Lab 2,14/8/2023,25
+15014,OOO,Final Exam,29/9/2023,100
+15020,NNN,Practical Lab 3,20/2/2023,25
+15021,CCC,Practical Lab 1,27/3/2023,25
+15022,LLL,Practical Lab 2,22/5/2023,50
+15023,GGG,Practical Lab 3,3/7/2023,50
+15024,DDD,Practical Lab 1,21/8/2023,50
+15025,III,Final Exam,29/9/2023,100
+24286,CCC,Knowledge Quiz 2,19/2/2023,15
+24287,EEE,Knowledge Quiz 3,9/4/2023,15
+24288,CCC,Knowledge Quiz 1,18/6/2023,15
+24289,GGG,Knowledge Quiz 2,27/8/2023,15
+24282,EEE,Practical Lab 1,5/3/2023,25
+24283,III,Practical Lab 2,14/5/2023,50
+24284,GGG,Practical Lab 3,2/7/2023,50
+24285,BBB,Practical Lab 1,20/8/2023,50
+24290,DDD,Final Exam,29/9/2023,100
+40087,III,Final Exam,29/9/2023,100
+24295,LLL,Knowledge Quiz 2,19/2/2023,15
+24296,NNN,Knowledge Quiz 3,9/4/2023,15
+24297,BBB,Knowledge Quiz 1,25/6/2023,15
+24298,JJJ,Knowledge Quiz 2,3/9/2023,15
+24291,III,Practical Lab 1,5/3/2023,25
+24292,JJJ,Practical Lab 2,21/5/2023,50
+24293,EEE,Practical Lab 3,9/7/2023,50
+24294,BBB,Practical Lab 1,27/8/2023,50
+24299,DDD,Final Exam,29/9/2023,100
+40088,LLL,Final Exam,29/9/2023,100
+25341,OOO,Knowledge Quiz 1,24/2/2023,15
+25342,LLL,Knowledge Quiz 2,24/3/2023,15
+25343,GGG,Knowledge Quiz 3,21/4/2023,15
+25344,LLL,Knowledge Quiz 1,26/5/2023,15
+25345,MMM,Knowledge Quiz 2,30/6/2023,15
+25346,HHH,Knowledge Quiz 3,21/7/2023,15
+25347,OOO,Knowledge Quiz 1,26/8/2023,15
+25334,CCC,Practical Lab 3,26/2/2023,25
+25335,NNN,Practical Lab 1,26/3/2023,25
+25336,AAA,Practical Lab 2,23/4/2023,25
+25337,DDD,Practical Lab 3,28/5/2023,25
+25338,BBB,Practical Lab 1,2/7/2023,25
+25339,HHH,Practical Lab 2,20/8/2023,25
+25340,DDD,Final Exam,29/9/2023,100
+25348,BBB,Practical Lab 2,26/2/2023,25
+25349,NNN,Practical Lab 3,26/3/2023,25
+25350,FFF,Practical Lab 1,30/4/2023,25
+25351,FFF,Practical Lab 2,4/6/2023,50
+25352,JJJ,Practical Lab 3,16/7/2023,50
+25353,DDD,Practical Lab 1,27/8/2023,50
+25354,FFF,Final Exam,20/10/2023,100
+25355,MMM,Practical Lab 3,26/2/2023,25
+25356,OOO,Practical Lab 1,26/3/2023,25
+25357,BBB,Practical Lab 2,16/4/2023,25
+25358,JJJ,Practical Lab 3,28/5/2023,50
+25359,LLL,Practical Lab 1,9/7/2023,50
+25360,BBB,Practical Lab 2,20/8/2023,50
+25361,JJJ,Final Exam,30/9/2023,100
+25362,NNN,Practical Lab 1,21/2/2023,25
+25363,DDD,Practical Lab 2,14/3/2023,25
+25364,NNN,Practical Lab 3,4/4/2023,25
+25365,OOO,Practical Lab 1,23/5/2023,50
+25366,OOO,Practical Lab 2,27/6/2023,50
+25367,HHH,Practical Lab 3,15/8/2023,50
+25368,NNN,Final Exam,29/9/2023,100
+30709,GGG,Practical Lab 2,6/3/2023,25
+30710,LLL,Practical Lab 3,10/4/2023,50
+30711,III,Practical Lab 1,5/6/2023,50
+30712,NNN,Practical Lab 2,10/7/2023,50
+30713,HHH,Final Exam,24/9/2023,100
+30714,EEE,Practical Lab 1,6/3/2023,25
+30715,MMM,Practical Lab 2,10/4/2023,50
+30716,BBB,Practical Lab 3,29/5/2023,50
+30717,OOO,Practical Lab 1,3/7/2023,50
+30718,EEE,Final Exam,17/9/2023,100
+30719,HHH,Practical Lab 3,6/3/2023,25
+30720,JJJ,Practical Lab 1,10/4/2023,50
+30721,III,Practical Lab 2,12/6/2023,50
+30722,LLL,Practical Lab 3,17/7/2023,50
+30723,LLL,Final Exam,24/9/2023,100
+34865,LLL,Knowledge Quiz 3,11/9/2023,10
+34866,MMM,Knowledge Quiz 1,11/9/2023,10
+34867,III,Knowledge Quiz 2,11/9/2023,10
+34868,MMM,Knowledge Quiz 3,11/9/2023,10
+34869,OOO,Knowledge Quiz 1,11/9/2023,10
+34871,MMM,Knowledge Quiz 3,11/9/2023,10
+34870,AAA,Knowledge Quiz 2,11/9/2023,10
+34860,III,Practical Lab 1,20/2/2023,25
+34861,GGG,Practical Lab 2,20/3/2023,25
+34862,III,Practical Lab 3,1/5/2023,50
+34863,HHH,Practical Lab 1,12/6/2023,50
+34864,AAA,Practical Lab 2,17/7/2023,50
+34872,LLL,Final Exam,11/9/2023,100
+34878,HHH,Knowledge Quiz 1,25/9/2023,10
+34879,HHH,Knowledge Quiz 2,25/9/2023,10
+34880,OOO,Knowledge Quiz 3,25/9/2023,10
+34881,KKK,Knowledge Quiz 1,25/9/2023,10
+34882,CCC,Knowledge Quiz 2,25/9/2023,10
+34884,AAA,Knowledge Quiz 1,25/9/2023,10
+34883,HHH,Knowledge Quiz 3,25/9/2023,10
+34873,CCC,Practical Lab 2,20/2/2023,25
+34874,CCC,Practical Lab 3,20/3/2023,25
+34875,AAA,Practical Lab 1,8/5/2023,50
+34876,KKK,Practical Lab 2,12/6/2023,50
+34877,EEE,Practical Lab 3,24/7/2023,50
+34885,JJJ,Final Exam,25/9/2023,100
+34891,GGG,Knowledge Quiz 2,16/9/2023,10
+34892,JJJ,Knowledge Quiz 3,16/9/2023,10
+34893,III,Knowledge Quiz 1,16/9/2023,10
+34894,LLL,Knowledge Quiz 2,16/9/2023,10
+34895,GGG,Knowledge Quiz 3,16/9/2023,10
+34897,III,Knowledge Quiz 2,16/9/2023,10
+34896,HHH,Knowledge Quiz 1,16/9/2023,10
+34886,LLL,Practical Lab 3,25/2/2023,25
+34887,BBB,Practical Lab 1,25/3/2023,25
+34888,AAA,Practical Lab 2,29/4/2023,50
+34889,GGG,Practical Lab 3,10/6/2023,50
+34890,GGG,Practical Lab 1,22/7/2023,50
+34898,NNN,Final Exam,16/9/2023,100
+34904,HHH,Knowledge Quiz 3,30/9/2023,10
+34905,EEE,Knowledge Quiz 1,30/9/2023,10
+34906,CCC,Knowledge Quiz 2,30/9/2023,10
+34907,LLL,Knowledge Quiz 3,30/9/2023,10
+34908,HHH,Knowledge Quiz 1,30/9/2023,10
+34910,FFF,Knowledge Quiz 3,30/9/2023,10
+34909,KKK,Knowledge Quiz 2,30/9/2023,10
+34899,CCC,Practical Lab 1,25/2/2023,25
+34900,AAA,Practical Lab 2,25/3/2023,25
+34901,CCC,Practical Lab 3,6/5/2023,50
+34902,EEE,Practical Lab 1,17/6/2023,50
+34903,OOO,Practical Lab 2,19/8/2023,50
+34911,NNN,Final Exam,30/9/2023,100
+37418,CCC,Knowledge Quiz 3,18/9/2023,10
+37419,AAA,Knowledge Quiz 1,18/9/2023,10
+37420,EEE,Knowledge Quiz 2,18/9/2023,10
+37421,JJJ,Knowledge Quiz 3,18/9/2023,10
+37422,GGG,Knowledge Quiz 1,18/9/2023,10
+37423,OOO,Knowledge Quiz 2,18/9/2023,10
+37415,NNN,Practical Lab 3,3/4/2023,25
+37416,GGG,Practical Lab 1,5/6/2023,25
+37417,KKK,Practical Lab 2,24/7/2023,25
+37424,III,Final Exam,18/9/2023,100
+37428,OOO,Knowledge Quiz 1,11/9/2023,10
+37429,OOO,Knowledge Quiz 2,11/9/2023,10
+37430,JJJ,Knowledge Quiz 3,11/9/2023,10
+37431,JJJ,Knowledge Quiz 1,11/9/2023,10
+37432,LLL,Knowledge Quiz 2,11/9/2023,10
+37433,MMM,Knowledge Quiz 3,11/9/2023,10
+37425,CCC,Practical Lab 1,3/4/2023,25
+37426,OOO,Practical Lab 2,29/5/2023,25
+37427,GGG,Practical Lab 3,17/7/2023,25
+37434,AAA,Final Exam,11/9/2023,100
+37438,DDD,Knowledge Quiz 2,18/9/2023,10
+37439,MMM,Knowledge Quiz 3,18/9/2023,10
+37440,DDD,Knowledge Quiz 1,18/9/2023,10
+37441,NNN,Knowledge Quiz 2,18/9/2023,10
+37442,EEE,Knowledge Quiz 3,18/9/2023,10
+37443,GGG,Knowledge Quiz 1,18/9/2023,10
+37435,GGG,Practical Lab 2,3/4/2023,25
+37436,MMM,Practical Lab 3,5/6/2023,25
+37437,OOO,Practical Lab 1,24/7/2023,25
+37444,KKK,Final Exam,18/9/2023,100

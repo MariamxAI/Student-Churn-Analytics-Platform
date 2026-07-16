@@ -97,8 +97,40 @@ student-churn-analytics-platform/
 - PostgreSQL Data Warehouse
 - Interactive Power BI dashboard
 - Student behavior analytics
+## How to Run
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/your-username/student-churn-analytics-platform.git
+```
+
+2. Navigate to the project directory.
+
+```bash
+cd student-churn-analytics-platform
+```
+
+3. Install the required Python packages.
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Configure the PostgreSQL database and restore the project database if required.
+
+5. Run the ETL and Feature Engineering scripts.
+
+6. Connect the generated database to Power BI to explore the dashboard.
 
 ---
+## How to Use
+
+- Open the Power BI dashboard.
+- Navigate through the available report pages.
+- Use filters and slicers to explore student performance and engagement.
+- Monitor key performance indicators (KPIs).
+- Analyze student behavior and identify potential churn patterns.
 
 ## Team
 
